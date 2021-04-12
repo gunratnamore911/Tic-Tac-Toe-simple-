@@ -1,0 +1,37 @@
+.nxt {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.btn-div {
+  text-align: center;
+
+  height: 4rem;
+}
+.btn-start {
+  padding: 1rem 2rem;
+  width: 100%;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 2rem;
+  background-color: rgb(127, 233, 127);
+  border-color: rgb(127, 233, 127);
+  transition: all 0.2s ease-in-out;
+}
+.btn-start:hover {
+  transform: scale(1.2);
+  transform: translateY(-2px);
+}
+.btn-start:active {
+  transform: translateY(2px);
+}
+
+.winner__an {
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 2.5rem;
+
+  width: 100%;
+}
